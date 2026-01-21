@@ -1,0 +1,6 @@
+google-adk>=1.0.0
+fastmcp>=1.0.0
+httpx>=0.24.0
+uvicorn>=0.23.0
+groq
+python-dotenv>=1.0.0
